@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Game Price Calculator</string>
+    <string name="errorEnterPrice">Enter a Price</string>
+    <string name="hintPriceFirstGame">Price 1° Game</string>
+    <string name="hintDiscountPrice">Discount Price</string>
+    <string name="hintLowerPrice">Lower Price</string>
+    <string name="hintBudget">Budget</string>
+    <string name="textCalculate">Calculate</string>
+    <string name="textResult">Result</string>
+    <string name="resultPart1">"The next would be the cost of the first 10 games: "</string>
+    <string name="resultPart2">". Now, taking into account that the budget is "</string>
+    <string name="resultPart3">", you could buy only "</string>
+    <string name="resultPart4">" game(s): "</string>
+    <string name="resultPart5">.</string>
+
+</resources>
